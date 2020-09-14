@@ -1,2 +1,2 @@
-# sc-test-sc-config
+# sc-model-test-config
 测试
